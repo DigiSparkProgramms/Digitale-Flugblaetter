@@ -8,8 +8,15 @@ Um die Digitalen Flugblätter einsetzen zu können, benötigt ihr ein DigiSpark 
 Nun ladet ihr (falls nicht schon vorhanden) die Arduino IDE herunter, um Programme für den DigiSpark zu Programmieren und schon vorhandene draufzuspielen.
 (Link:https://www.arduino.cc/en/main/software )
 Nun müsst ihr die treiber für den DigiSpark Installieren (Link: https://github.com/digistump/DigistumpArduino/releases/download/1.6.7/Digistump.Drivers.zip )
-und Anschließend Folgende Schritte Ausführen:
+und Anschließend Folgende Schritte Ausführen (Anleitung mit Bildern aber auf Englisch hier: http://digistump.com/wiki/digispark/tutorials/connecting) :
 
-1.) Geht in die Arduino IDE und geht oben bei der toolbar auf Datei (file) , Einstellungen (Preferences)
+0.)Steckt das DigiSpark board in die USB Schnittstelle eures Computers (sorum, das die rote Lampe leuchtet)
+1.) Geht in die Arduino IDE und oben bei der toolbar auf Datei (file)  →  Einstellungen (Preferences)
+2.)Gebt in das Feld "Zusätzliche Boards Manager-URLs" Folgendes ein: http://digistump.com/package_digistump_index.json
+3.)Geht in der Toolbar auf "Tools" und dann zum Untermenü "Board" - wählt "Boards Manager" und dann aus der Dropdown-Liste "Contributed" :  „Digistump AVR Boards“
+4.) Klickt auf Installieren
+5.)Wenn die Installation zu Ende ist, geht ihr zurück ins Menü und dann auf  Werkzeuge (Tools) → Boards → "Digispark (Default- 16,5 MHz)"
+Fertig !
+
 
 
