@@ -3,6 +3,14 @@
 
 # Einleitung
 Flugblätter waren in den letzten Jahrhunderten eine sehr erfolgreiche Technik. Nun habe ich Flugblätter und Computer verknüpft und Digitale Flugblätter erstellt, welche keine Resourcen verbrauchen und an das 21. Jahrhundert angepasst sind! Viel spaß damit, gebt die Programme gerne weiter oder Verbessert sie...
+
+# Rechtliches 
+Auch wenn sich die Digitalen Flugblätter super dafür eignen, sie auf Schul-Vertretungsplanern, Anzeigetafeln oder anderen Windows Basierten Anzeigetafeln anzwenden, ist es wahrscheinlich nicht erlaubt (oder grauzone?), wen der Besitzer nicht vorher zugestimmt hat.
+Für mehr informationen über die rechtliche lage siehe https://www.eulisp.de/tl_files/eulisp%20abschlussarbeiten/loerke_michael.pdf
+oder https://www.internetrecht-rostock.de/hackerparagraf.htm
+
+Ich übernehme keine Haftung, wenn jemand das oben genannte dennoch tut xD
+
 # Anleitung
 Um die Digitalen Flugblätter einsetzen zu können, benötigt ihr ein DigiSpark ATtiny85 USB Development Board (Link zu Amazone:  https://www.amazon.de/AZDelivery-Digispark-Kickstarter-Development-ATtiny85/dp/B01N7SGC1I/ref=sr_1_1_sspa?ie=UTF8&qid=1549893293&sr=8-1-spons&keywords=digispark&psc=1 )
 Nun ladet ihr (falls nicht schon vorhanden) die Arduino IDE herunter, um Programme für den DigiSpark zu Programmieren und schon vorhandene draufzuspielen.
@@ -24,11 +32,21 @@ und Anschließend Folgende Schritte Ausführen (Anleitung mit Bildern aber auf E
 
 Fertig !
 
-Nun Könnt ihr die Digitales_Flugblatt_DE datei öffnen (verbessern/anpassen) und hochladen !
-# Rechtliches 
-Auch wenn sich die Digitalen Flugblätter super dafür eignen, sie auf Schul-Vertretungsplanern, Anzeigetafeln oder anderen Windows Basierten Anzeigetafeln anzwenden, ist es wahrscheinlich nicht erlaubt (oder grauzone?), wen der Besitzer nicht vorher zugestimmt hat.
-Für mehr informationen über die rechtliche lage siehe https://www.eulisp.de/tl_files/eulisp%20abschlussarbeiten/loerke_michael.pdf
-oder https://www.internetrecht-rostock.de/hackerparagraf.htm
-Ich übernehme keine Haftung, wenn jemand das oben genannte dennoch tut xD
+Nun Könnt ihr die Digitales_Flugblatt_DE datei öffnen (verbessern/anpassen) und auf den DigiSpark hochladen !
+Danach ist er aktiv und führt das auf ihm gespeicherte Programm sofort aus, wenn er in den USB Port eines Computers gesteckt wird ! 
+# Hinweise zu den Programmen 
+Das Programm Digitales_Flugblatt_DE_T0 öffnet die über die Eingabeaufforderung einen Link (zu einem Fridays for Future Plakat) und Maximiert das Bild. Das Programm enthält KEINE Zeitverzögerung !
+
+Das Programm Digitales_Flugblatt_DE_T05 offnet die Kommandozeile (cmd.exe), Downloadet ein Programm, welches, 5 Minuten nachdem es gestartet wurde, einen Link (zu einem Fridays for Future Plakat) öffnet und das Bild Maximiert. Danach löscht sich das Programm von selbst (um "Nicht den Computer zu vermüllen" ;) ). Sobalt die 2. rote LED am DigiSpark leuchtet, kann man den Stick wieder herrausziehen (Das Programm ist dann gestartet und ab dann läuft der 5 min Timer)
+
+Das Programm Digitales_Flugblatt_DE_T30 macht das gleiche wie das Programm Digitales_Flugblatt_DE_T05, nur mit 30 min verzögerung...
+
+Die Programme mit US im Namen sind für Computer mit Amerikanischem Tastatur Layout
+
+
+
+
+
+
 
 
