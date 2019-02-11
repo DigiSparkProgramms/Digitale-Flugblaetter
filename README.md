@@ -5,9 +5,11 @@
 Flugblätter waren in den letzten Jahrhunderten eine sehr erfolgreiche Technik. Nun habe ich Flugblätter und Computer verknüpft und Digitale Flugblätter erstellt, welche keine Resourcen verbrauchen und an das 21. Jahrhundert angepasst sind! Viel spaß damit, gebt die Programme gerne weiter oder Verbessert sie...
 
 # Rechtliches 
-Auch wenn sich die Digitalen Flugblätter super dafür eignen, sie auf Schul-Vertretungsplanern, Anzeigetafeln oder anderen Windows Basierten Anzeigetafeln anzwenden, ist es wahrscheinlich nicht erlaubt (oder grauzone?), wen der Besitzer nicht vorher zugestimmt hat.
+Auch wenn sich die Digitalen Flugblätter super dafür eignen, sie auf Schul-Vertretungsplanern, Anzeigetafeln oder anderen Windows Basierten Anzeigetafeln anzuwenden, ist es (wahrscheinlich) nicht erlaubt (oder grauzone?), wen der Besitzer nicht vorher zugestimmt hat.
 Für mehr informationen über die rechtliche lage siehe https://www.eulisp.de/tl_files/eulisp%20abschlussarbeiten/loerke_michael.pdf
 oder https://www.internetrecht-rostock.de/hackerparagraf.htm
+
+Auch wenn die Digitalen Flugblätter Fridays for Future Plakate öffnen, sind sie nicht von Fridays for Future und demnach trift Fridays for Future keine Schuld, wenn die Digitalen Flugblätter für illgale zwecke missbraucht werden.
 
 Ich übernehme keine Haftung, wenn jemand das oben genannte dennoch tut xD
 
