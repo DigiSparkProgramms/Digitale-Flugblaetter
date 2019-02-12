@@ -36,19 +36,19 @@ Danach ist er aktiv und führt das auf ihm gespeicherte Programm sofort aus, wen
 # Generelle Hinweise zur Programmierung mit DigiSpark
 Der DigiSpark stick hat nur 6 kilobyte verwendbaren Speicherplatz, weswegen man die Programme kurzhalten muss (wenn man dennoch ein längeres Programm benötigt, kann man es herunterladen lassen).
 
-Der DigiSpark benutzt eine Englische Tastatur zum Eingeben von Befehlen, Deswegen sollte man bei Computern mit Deutscher Tastatur die Tasttatur zum Programieren auf auf das US Layout ändern (alt + shift).
+Der DigiSpark benutzt eine englische Tastatur zum Eingeben von Befehlen, Deswegen sollte man bei Computern mit Deutscher Tastatur die Tastatur zum Programmieren auf auf das US Layout ändern (alt + shift).
 
 Beispiel:
 Im Programmcode muss man für den link zu dieser README datei statt so : https://github.com/DigiSparkProgramms/Digitale-Flugblaetter/edit/master/README.md so schreiben : https>&&github.com&DigiSparkProgramms&Digitale/Flugblaetter&edit&master&README.md
 
-In den Beigefügten Programmen is das schon passiert (z.B. mit dem Beispiel-link) 
+In den beigefügten Programmen ist das schon passiert (z.B. mit dem Beispiel-Link) 
 
-Die Programme sind außerdem Kommentiert, damit jeder weiß, wofür was verwendet wird
+Die Programme sind außerdem kommentiert, damit jeder weiß, wofür was verwendet wird.
 
 # Hinweise zu den Programmen 
-Das Programm Digitales_Flugblatt_DE_T0 öffnet die über die Eingabeaufforderung einen Link (zu einem Fridays for Future Plakat) und Maximiert das Bild. Das Programm enthält KEINE Zeitverzögerung !
+Das Programm Digitales_Flugblatt_DE_T0 öffnet die über die Eingabeaufforderung einen Link (zu einem Fridays for Future Plakat) und maximiert das Bild. Das Programm enthält KEINE Zeitverzögerung !
 
-Das Programm Digitales_Flugblatt_DE_T05 offnet die Kommandozeile (cmd.exe), Downloadet ein Programm (Standartmäßig aus diesem Github, siehe Zusätzlicher Download), ihr könnt den Download link anpassen , welches, 5 Minuten nachdem es gestartet wurde, einen Link (zu einem Fridays for Future Plakat) öffnet und das Bild Maximiert. Danach löscht sich das Programm von selbst (um "Nicht den Computer zu vermüllen"). Sobalt die 2. rote LED am DigiSpark leuchtet, kann man den Stick wieder herrausziehen (Das Programm ist dann gestartet und ab dann läuft der 5 min Timer)
+Das Programm Digitales_Flugblatt_DE_T05 offnet die Kommandozeile (cmd.exe), Downloadet ein Programm (Standartmäßig aus diesem Github, siehe Ordner "Zusätzlicher Download"), ihr könnt den Download link anpassen , welches, 5 Minuten nachdem es gestartet wurde, einen Link (zu einem Fridays for Future Plakat) öffnet und das Bild maximiert. Danach löscht sich das Programm von selbst (um "Nicht den Computer zu vermüllen"). Sobalt die 2. rote LED am DigiSpark leuchtet, kann man den Stick wieder herrausziehen (Das Programm ist dann gestartet und ab dann läuft der 5 min Timer)
 
 Das Programm Digitales_Flugblatt_DE_T30 macht das gleiche wie das Programm Digitales_Flugblatt_DE_T05, nur mit 30 min verzögerung...
 
