@@ -7,7 +7,7 @@ Flugblätter waren in den letzten Jahrhunderten eine sehr erfolgreiche Technik. 
 # Rechtliches 
 Auch wenn sich die Digitalen Flugblätter vielleicht dafür eignen würden, sie auf Schul-Vertretungsplanern, Anzeigetafeln oder anderen Windowsbasierten Anzeigetafeln anzuwenden, ist es nicht erlaubt, wenn der Besitzer nicht vorher zugestimmt hat. Für mehr Informationen über die rechtliche Lage siehe https://www.eulisp.de/tl_files/eulisp%20abschlussarbeiten/loerke_michael.pdf oder https://www.internetrecht-rostock.de/hackerparagraf.htm. Ich übernehme keine Haftung für die Anwendung der beigefügten Programme, informiert Euch bitte vorher selbst, was erlaubt ist und was nicht.
 
-Auch wenn die Digitalen Flugblätter hier im Beispiel Fridays for Future Plakate öffnen, sind sie nicht von Fridays for Future, und Fridays for Future steht weder in Verbindung mit mir noch ist Fridays for Future darüber informiert. Das Plakat dient hier nur als ein Beispiel. Ich finde das Anliegen von FfF aber gut. Engagiert Euch bitte auch für den Klimaschutz!
+Auch wenn die Digitalen Flugblätter hier im Beispiel Fridays for Future Plakate öffnen, sind sie nicht von Fridays for Future, und Fridays for Future steht weder in Verbindung mit mir noch ist Fridays for Future darüber informiert. Das Plakat dient hier nur als ein Beispiel. Ich finde das Anliegen von FFF aber gut. Engagiert Euch bitte auch für den Klimaschutz!
 
 # Anleitung
 Um die Digitalen Flugblätter einsetzen zu können, benötigt ihr ein DigiSpark ATtiny85 USB Development Board (Link zu Amazone:  https://www.amazon.de/AZDelivery-Digispark-Kickstarter-Development-ATtiny85/dp/B01N7SGC1I/ref=sr_1_1_sspa?ie=UTF8&qid=1549893293&sr=8-1-spons&keywords=digispark&psc=1 )
