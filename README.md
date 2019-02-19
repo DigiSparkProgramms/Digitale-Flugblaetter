@@ -13,7 +13,7 @@ Auch wenn die Digitalen Flugblätter hier im Beispiel Fridays for Future Plakate
 Digitale Flugblätter bestehen aus einem Microcontroller, welcher sich, sobald er in über einen USB anschluss an einen Computer angeschlossen wird, als Tastatur ausgibt und eine Reihe von Befehlen ausführt. Dadurch öffnet er ein Bild/Plakat/Flyer/Flugblatt/etc im Internet und Maximiert anschließend das Bild. Mehr informationen zu den verschiedenen Programmen findet ihr unter dem Abschnitt Hinweise zu den Programmen.
 
 # Anleitung
-Um die Digitalen Flugblätter einsetzen zu können, benötigt ihr ein DigiSpark ATtiny85 USB Development Board (Link zu Amazone:  https://www.amazon.de/AZDelivery-Digispark-Kickstarter-Development-ATtiny85/dp/B01N7SGC1I/ref=sr_1_1_sspa?ie=UTF8&qid=1549893293&sr=8-1-spons&keywords=digispark&psc=1 )
+Um die Digitalen Flugblätter einsetzen zu können, benötigt ihr ein DigiSpark ATtiny85 USB Development Board (Link zu Amazon:  https://www.amazon.de/AZDelivery-Digispark-Kickstarter-Development-ATtiny85/dp/B01N7SGC1I/ref=sr_1_1_sspa?ie=UTF8&qid=1549893293&sr=8-1-spons&keywords=digispark&psc=1 )
 Nun ladet ihr (falls nicht schon vorhanden) die Arduino IDE herunter, um Programme für den DigiSpark zu Programmieren und schon vorhandene draufzuspielen.
 (Link:https://www.arduino.cc/en/main/software )
 Nun müsst ihr die treiber für den DigiSpark Installieren (Link: https://github.com/digistump/DigistumpArduino/releases/download/1.6.7/Digistump.Drivers.zip )
