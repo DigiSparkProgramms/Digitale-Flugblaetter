@@ -4,7 +4,7 @@ WScript.Sleep 200
 WshShell.SendKeys "exit"
 WshShell.SendKeys "{ENTER}"
 WScript.Sleep 300000
-CreateObject("WScript.Shell").Run("https://enough-is-enough14.org/wp-content/uploads/2019/01/schulstreikflyer.jpg")
+CreateObject("WScript.Shell").Run("www.youtube.com/embed/D1monu7dsoY?autoplay=1&loop=1&fullscreen=1&playlist=D1monu7dsoY")
 WScript.Sleep 30000
 WshShell.SendKeys "{ENTER}"
 WshShell.SendKeys "{ENTER}"
