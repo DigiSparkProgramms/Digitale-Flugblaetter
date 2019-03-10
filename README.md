@@ -55,6 +55,8 @@ Das Programm Digitales_Flugblatt_DE_T05 offnet die Kommandozeile (cmd.exe), Down
 
 Das Programm Digitales_Flugblatt_DE_T30 macht das gleiche wie das Programm Digitales_Flugblatt_DE_T05, nur mit 30 min verzögerung...
 
+Das Programm Digitales_Flugblatt_DE_TManuell_XP... ist extra für Windows XP Rechner gemacht, weil diese anders mit den Digitalen Flugblättern umgehen. Leider Funktioniert dort auch die Sache mit dem Download des Verzögerungs Programms nicht, deswegen muss man, falls man eine verzögerung will, den Stick bis zum ende dieser Verzögerung stecken lassen. Die Verzögerung kann man an der Kommentierten Stelle in Code einstellen (in Millisekunden!).
+
 Die Programme mit US im Namen sind für Computer mit Amerikanischem Tastatur Layout
 
 
